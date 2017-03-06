@@ -1,6 +1,7 @@
 # Fitness
 
 Methods for deployment
+
 1] make a database in mysql name fitness
 
 2] import fitness.sql file in the above database.
